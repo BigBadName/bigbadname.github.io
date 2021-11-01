@@ -15,6 +15,32 @@
   overflow: hidden;
   font-family: 'Ubuntu', sans-serif;
 }
+.projects {
+  background: black;
+  min-height: 100vh;
+  display: flex;
+  justify-content: left;
+  flex-direction: column;
+  line-height: 1;
+  overflow: hidden;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.projects h3 {
+  color: whitesmoke;
+  text-align: center;
+  margin-top:  10px;
+  margin-bottom: 5px;
+}
+
+.projects p {
+  color: whitesmoke;
+}
+
+.projects a {
+  color: whitesmoke;
+}
+
 h1, h2 {
   color:whitesmoke;
   margin-top:  10px;
